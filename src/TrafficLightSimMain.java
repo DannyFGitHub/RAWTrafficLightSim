@@ -35,7 +35,7 @@ public class TrafficLightSimMain extends Application {
     public void start(Stage primaryStage) throws Exception {
 
         //Set window title, for cosmetic purposes
-        primaryStage.setTitle("Assignment 2 Task 3 - Traffic Light Simulator");
+        primaryStage.setTitle("Traffic Light Simulator");
 
         //Label just for cosmetic purposes.
         Label programName = new Label("Traffic Light Simulator");
